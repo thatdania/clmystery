@@ -24,7 +24,11 @@ The Command Line Murder
     OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
     `OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
+# Approach & Objective
 
+This was following the case steps in the files given. It was a guide to make sure one understood all the steps that were instructed and the end result would be finding the criminal of the case! Overall, this suspect case was an entertaining but challenging task to learn about the command line. I managed to find the criminal (JeremyBowers) through this fun investigation, although finding the people through a large archive of names using the command line was the most difficult part. 
+
+# To the investigation
 There's been a murder in Terminal City, and TCPD needs your help.
 
 Before you start, skim through the required materials in the Command Line and Version Control sections of your PreCourse repo. Use it as a reference while working through the case.
@@ -33,8 +37,6 @@ Now with your Terminal at hand you're ready to start. A couple of ground rules f
 
 - **Don't use a text editor**. You will find that the command line is an incredibly powerful tool on its own.
 - You can use Google, PreCourse materials, cheatsheets or any other materials available.
-
-# To the investigation
 
 ## Step 1: Get the repo
 
